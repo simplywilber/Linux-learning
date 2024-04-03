@@ -1,0 +1,10 @@
+Creating files with the .sh extension is a way to easily excute pre-staged scripts
+
+The '#!" symbol is know as the shebang
+
+We have options we can use with echo such as the -n and -e options
+
+chmod with change the mode
+
+for arithmetical operations, we use double brackets, example: ((sum=2+2))
+
